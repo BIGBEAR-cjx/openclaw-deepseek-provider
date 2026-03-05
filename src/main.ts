@@ -59,5 +59,17 @@ export {
   streamWithCallbacks,
 } from "./streaming.js";
 
+// Market-Oriented Features
+export {
+  CostOptimizer,
+  PerformanceMonitor,
+  BatchProcessor,
+  MigrationHelper,
+  CostOptimizationConfig,
+  PerformanceMetrics,
+  BatchRequest,
+  BatchResult,
+} from "./market-features.js";
+
 // Version
-export const VERSION = "1.1.0";
+export const VERSION = "1.2.0";

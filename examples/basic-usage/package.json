@@ -1,0 +1,14 @@
+{
+  "name": "deepseek-provider-example",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "@openclaw/provider-deepseek": "^1.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0"
+  }
+}
