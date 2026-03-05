@@ -99,7 +99,8 @@ describe("MigrationHelper", () => {
   });
 
   it("should validate API key", async () => {
-    global.fetch = vi.fn().mockResolvedValue({ status: 200 });
+    const mockFetch = vi.fn().mockResolvedValue({ status: 200 });
+    global.fetch = mockFetch as unknown as typeof fetch;
     const result = await MigrationHelper.validateApiKey("valid-key");
     expect(result.valid).toBe(true);
   });
