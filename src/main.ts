@@ -36,8 +36,9 @@ export type {
   DeepSeekRequest,
   DeepSeekResponse,
   DeepSeekProviderConfig,
-  OpenClawProvider,
 } from "./index.js";
+
+export type { OpenClawProvider } from "./adapter.js";
 
 // Version
 export const VERSION = "1.0.0";
