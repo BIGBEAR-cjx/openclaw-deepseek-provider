@@ -1,0 +1,23 @@
+{
+  "name": "@openclaw/provider-deepseek",
+  "version": "1.0.0",
+  "description": "Official DeepSeek API provider for OpenClaw",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": ["openclaw", "deepseek", "provider", "ai"],
+  "author": "BIGBEAR-cjx",
+  "license": "MIT",
+  "peerDependencies": {
+    "openclaw": ">=2026.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
