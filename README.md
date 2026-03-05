@@ -309,3 +309,25 @@ MIT © [BIGBEAR-cjx](https://github.com/BIGBEAR-cjx)
 <p align="center">
   <b>⭐ Star this repo if it helps you save money!</b>
 </p>
+
+---
+
+## 📢 Community
+
+### Featured in OpenClaw
+
+This provider has been shared with the OpenClaw community:
+- [OpenClaw Issue #35954](https://github.com/openclaw/openclaw/issues/35954) - Community announcement
+
+### Support
+
+- 💬 [GitHub Discussions](https://github.com/BIGBEAR-cjx/openclaw-deepseek-provider/discussions)
+- 🐛 [Issue Tracker](https://github.com/BIGBEAR-cjx/openclaw-deepseek-provider/issues)
+
+---
+
+## ⭐ Star History
+
+If you find this provider helpful, please give it a star! It helps others discover the project.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BIGBEAR-cjx/openclaw-deepseek-provider&type=Date)](https://star-history.com/#BIGBEAR-cjx/openclaw-deepseek-provider&Date)
