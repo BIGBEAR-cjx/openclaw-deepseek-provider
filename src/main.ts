@@ -40,5 +40,24 @@ export type {
 
 export type { OpenClawProvider } from "./adapter.js";
 
+// Utilities
+export {
+  ConversationContext,
+  CostCalculator,
+  withRetry,
+  formatResponse,
+  selectModelForUseCase,
+  TokenUsage,
+} from "./utils.js";
+
+// Streaming
+export {
+  DeepSeekStreamer,
+  StreamChunk,
+  StreamCallbacks,
+  collectStream,
+  streamWithCallbacks,
+} from "./streaming.js";
+
 // Version
-export const VERSION = "1.0.0";
+export const VERSION = "1.1.0";
