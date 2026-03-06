@@ -331,3 +331,4 @@ This provider has been shared with the OpenClaw community:
 If you find this provider helpful, please give it a star! It helps others discover the project.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=BIGBEAR-cjx/openclaw-deepseek-provider&type=Date)](https://star-history.com/#BIGBEAR-cjx/openclaw-deepseek-provider&Date)
+\n## Related Projects\n\n- [Grok Provider](https://github.com/BIGBEAR-cjx/openclaw-grok-provider) - xAI Grok API integration
